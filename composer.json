@@ -1,0 +1,17 @@
+{
+    "name": "leotrn/wc-pronos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leotrnn",
+            "email": "leo.trn@eduge.ch"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    }
+}
